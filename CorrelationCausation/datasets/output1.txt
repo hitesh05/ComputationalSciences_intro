@@ -1,0 +1,15 @@
+Persons and Total GFR: 
+-0.7044811612800506
+
+Urban Female and Urban GFR
+-0.5883042198162002
+
+Rural Female and Rural GFR
+-0.7142398244857799
+
+Urban Male and Urban GFR
+-0.49295732885115023
+
+Rural Male and Rural GFR
+-0.5526140729748754
+

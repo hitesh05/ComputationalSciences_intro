@@ -1,0 +1,5 @@
+text = open("datasets/infant_mortality.csv", "r")
+text = ''.join([i for i in text]).replace("0", "")
+x = open("datasets/infant_mortality.csv","w")
+x.writelines(text)
+x.close()

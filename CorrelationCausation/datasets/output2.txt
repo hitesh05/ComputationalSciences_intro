@@ -1,0 +1,20 @@
+Total literacy and total mortality:  -0.5634568165406599
+
+Total literacy and female mortality:  -0.7711793684808194
+
+Rural literacy and rural mortality:  -0.4292860455506246
+
+Rural literacy and rural female mortality:  -0.6120583764498413
+
+Urban literacy and urban mortality:  -0.4350839382757739
+
+Urban literacy and urban female mortality:  -0.718742068078022
+
+Rural male litearcy and rural mortality:  -0.3330908460846775
+
+Urban male literacy and urban mortality:  -0.3172926701208852
+
+Rural female literacy and rural mortality:  -0.47834647049589907
+
+Urban female literacy and urban mortality:  -0.4973832369003977
+
