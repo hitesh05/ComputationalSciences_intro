@@ -1,0 +1,39 @@
+                     States/UTs  Persons  ...   Urban Male   Urban Female
+0   Andaman and Nicobar Islands    86.63  ...          NaN            NaN
+1                Andhra Pradesh    67.41  ...          2.0           22.0
+2             Arunachal Pradesh    65.38  ...          NaN            NaN
+3                         Assam    72.19  ...          2.0           21.0
+4                         Bihar    61.80  ...         26.0           34.0
+5                    Chandigarh    86.05  ...          NaN            NaN
+6                  Chhattisgarh    70.28  ...         34.0           36.0
+7        Dadra and Nagar Haveli    76.24  ...          NaN            NaN
+8                 Daman and Diu    87.10  ...          NaN            NaN
+9                         Delhi    86.21  ...         14.0           12.0
+10                          Goa    88.70  ...          NaN            NaN
+11                      Gujarat    78.03  ...         21.0           19.0
+12                      Haryana    75.55  ...         24.0           25.0
+13             Himachal Pradesh    82.80  ...          NaN            NaN
+14                    Jharkhand    66.41  ...         24.0           28.0
+15                    Karnataka    75.36  ...         18.0           22.0
+16                       Kerala    94.00  ...         11.0            0.0
+17                  Lakshadweep    91.85  ...          NaN            NaN
+18               Madhya Pradesh    69.32  ...         37.0           35.0
+19                  Maharashtra    82.34  ...         14.0           13.0
+20                      Manipur    76.94  ...          NaN            NaN
+21                    Meghalaya    74.43  ...          NaN            NaN
+22                      Mizoram    91.33  ...          NaN            NaN
+23                     Nagaland    79.55  ...          NaN            NaN
+24                       Odisha    72.87  ...         31.0            3.0
+25                   Puducherry    85.85  ...          NaN            NaN
+26                       Punjab    75.84  ...          2.0           19.0
+27                    Rajasthan    66.11  ...         24.0           28.0
+28                       Sikkim    81.42  ...          NaN            NaN
+29                   Tamil Nadu    80.09  ...         13.0           12.0
+30                    Telangana    66.46  ...         19.0           23.0
+31                      Tripura    87.22  ...          NaN            NaN
+32                Uttar Pradesh    67.68  ...         32.0           38.0
+33                  Uttarakhand    78.82  ...         29.0            3.0
+34                  West Bengal    76.26  ...         18.0           22.0
+35                        India    72.98  ...         22.0           23.0
+
+[36 rows x 19 columns]
