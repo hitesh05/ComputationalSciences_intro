@@ -1,0 +1,5 @@
+text = open("datasets/CSR.csv", "r")
+text = ''.join([i for i in text]).replace("\t", ",")
+x = open("datasets/CSR.csv","w")
+x.writelines(text)
+x.close()

@@ -1,0 +1,5 @@
+text = open("HS_datasets/Cashew.csv", "r")
+text = ''.join([i for i in text]).replace("\t", ",")
+x = open("HS_datasets/Cashew.csv","w")
+x.writelines(text)
+x.close()
