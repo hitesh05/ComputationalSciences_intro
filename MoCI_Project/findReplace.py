@@ -1,5 +1,5 @@
-text = open("datasets/CSR.csv", "r")
-text = ''.join([i for i in text]).replace("\t", ",")
-x = open("datasets/CSR.csv","w")
+text = open("datasets/sex-ratio.csv", "r")
+text = ''.join([i for i in text]).replace(" ", ",")
+x = open("datasets/sex-ratio.csv","w")
 x.writelines(text)
 x.close()
